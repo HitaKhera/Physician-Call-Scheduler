@@ -1,0 +1,6 @@
+{
+  "name": "Physician Call Scheduler",
+  "description": "An AI-assisted, clinician-designed web application built to automate medical department shift rotations, manage roster constraints, handle internal shift swap workflows, and ensure fair, conflict-free scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
